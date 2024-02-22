@@ -1,0 +1,15 @@
+README
+
+1)Baixe o código do repositório
+2)No diretório onde se encontra o Dockerfile execute o comando: 
+    docker build -t alexandre_carvalho .
+3)Execute o comando: docker run -p 5000:5000 alexandre_carvalho
+5)No navegador digite: http://127.0.0.1:5000/api/movies
+6)No navegador digite: http://127.0.0.1:5000/api/producer
+
+
+
+
+
+
+
